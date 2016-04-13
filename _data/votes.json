@@ -1,0 +1,10 @@
+[
+    {
+        "electorate": "Auckland Central",
+        "votes": [88, 33, 63, 75, 29]
+    },
+    {
+        "electorate": "Wellington Central",
+        "votes": [50, 30, 60, 80, 90]
+    }
+]
